@@ -22,7 +22,6 @@ html{
     color: var(--primary-color);
     box-shadow: 0 5px, 10px var(--secondary-color);
     display: flex;
-    /* align-items: center; */
     position: relative;
 }
 .row2 {
